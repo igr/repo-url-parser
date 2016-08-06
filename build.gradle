@@ -55,7 +55,7 @@ bintray {
     pkg {
         userOrg = 'oblac'
         repo = 'java'
-        name = "com.oblac:${project.name}"
+        name = "com.oblac:rup"
         desc = 'Repo url parser'
         licenses = ['BSD 2-Clause']
         vcsUrl = 'https://github.com/igorspasic/repo-url-parser'
@@ -96,7 +96,7 @@ def customizePom(pom, gradleProject) {
         // add all items necessary for maven central publication
         generatedPom.project {
             name = "Repo url parser"
-            description = "Repo url parser"
+            description = "Repo URL parser supports Github and Github Enterprise."
             url = 'https://github.com/igorspasic/repo-url-parser'
             organization {
                 name = 'Oblac'
