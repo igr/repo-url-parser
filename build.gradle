@@ -55,7 +55,7 @@ bintray {
     pkg {
         userOrg = 'oblac'
         repo = 'java'
-        name = "com.oblac:rup"
+        name = "com.oblac:repo-url-parser"
         desc = 'Repo url parser'
         licenses = ['BSD 2-Clause']
         vcsUrl = 'https://github.com/igorspasic/repo-url-parser'
