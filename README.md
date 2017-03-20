@@ -1,5 +1,7 @@
 # VCS URL PARSER
 
+![](https://img.shields.io/maven-central/v/com.oblac/repo-url-parser.svg)
+
 Parses various VCS URLs:
 
 + Github
@@ -13,7 +15,7 @@ TODO:
 
 With Gradle:
 
-	compile 'com.oblac:repo-url-parser:1.0'
+	compile 'com.oblac:repo-url-parser:<version>'
 
 ## Usage
 
