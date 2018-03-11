@@ -1,0 +1,12 @@
+{
+	"name" : "Repo URL parser",
+	"description" : "Repositories URL parser; supports Github and Github Enterprise.",
+	"group" : "com.oblac",
+	"version" : "1.0.2",
+	"github" : "igr/repo-url-parser",
+	"java" : "1.7",
+	"junit": "5.1.0",
+	"license" : "The New BSD License",
+	"compile" : [],
+	"test" : []
+}
